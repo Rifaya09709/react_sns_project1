@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import ScrollingLogos from "./components/ScrollingLogos";
-import Sales from "./Components/Sales";
+import Sales from "./components/Sales";
 import Features from "./components/Features";
 import Reviews from "./components/Reviews";
 import Contact from "./components/Contact";
